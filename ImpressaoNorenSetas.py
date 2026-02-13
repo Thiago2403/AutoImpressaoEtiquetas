@@ -109,4 +109,4 @@ try:
         time.sleep(intervalo)
 
 except KeyboardInterrupt:
-    print("Programa Parado pelo Usuario")       #popop
+    print("Programa Parado pelo Usuario")       #Thiago Sousa Delphino - Projeto Automação
